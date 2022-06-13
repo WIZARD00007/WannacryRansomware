@@ -48,7 +48,7 @@ def getkey():
 window=Tk()
 window.title('wannacry ransomware')
 window.geometry("800x480+10+10")
-bg=PhotoImage(file="../bkgrnd.png")
+bg=PhotoImage(file="bkgrnd.png")
 label1=Label(window,image=bg)
 label1.place(x=0,y=0)
 myfont=tkinter.font.Font(family="Comic Sans MS",
