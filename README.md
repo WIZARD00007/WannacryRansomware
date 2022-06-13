@@ -56,3 +56,8 @@ $ pip3 install -r requirements.txt
 $cd src
 $ chmod +x ransom.py
 $ python3 ransom.py
+
+
+NOTE: MASTER KEY IS wizzmagic
+caution : Fernet is a symmetric encryption method which makes sure that the message ecrypted cannot br manipulated/read without the key. It uses URL safe encoding for the keys. Fernet also uses 128-bit AES.
+If your changing directory make sure that it does not contain any important data.
