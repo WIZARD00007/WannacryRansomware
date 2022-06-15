@@ -1,4 +1,6 @@
 #DISCLAIMER: ONLY FOR EDUCATIONAL PURPOSE
+
+
 ###In case of windows, you can directly use it any editors (ex: pycharm)
 
 ##using kali linux
@@ -61,3 +63,5 @@ $ python3 ransom.py
 NOTE: MASTER KEY IS wizzmagic
 caution : Fernet is a symmetric encryption method which makes sure that the message ecrypted cannot br manipulated/read without the key. It uses URL safe encoding for the keys. Fernet also uses 128-bit AES.
 If your changing directory make sure that it does not contain any important data.
+![Screenshot (124)](https://user-images.githubusercontent.com/93068081/173743336-345eac84-ead6-4bd9-acd5-7df1e40ed739.png)
+![Screenshot (125)](https://user-images.githubusercontent.com/93068081/173743467-7e95d968-b0ec-4a1f-aed2-978f2367771e.png)
