@@ -1,7 +1,7 @@
 #DISCLAIMER: ONLY FOR EDUCATIONAL PURPOSE
 
 
-###In case of windows, you can directly use it any editors (ex: pycharm)
+###In case of windows, you can directly use it in any editors (ex: pycharm)
 
 ##using kali linux
 
